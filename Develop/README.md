@@ -1,8 +1,8 @@
 
   
-      ![Github license](http://img.shields.io/badge/License-Academic_Free_License-blue.svg)
+    ![Github license](http://img.shields.io/badge/License-Academic_Free_License-blue.svg)
     
-  
+
   # test
 
   ## Description
@@ -20,10 +20,10 @@
   test
 
   ## Usage
-  test
+  tes
 
   ## Contributing
-  test
+  t
 
   ## Tests
   test
@@ -33,5 +33,5 @@
 
   ## Questions?
   You can find all of my projects at https://github.com/test
-  And you can contact me directly at etst
+  And you can contact me directly at test
 
