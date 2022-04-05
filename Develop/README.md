@@ -1,12 +1,9 @@
 
   
-  ![Github license](http://img.shields.io/badge/License-Mozilla_Public_License-blue.svg)
-  
-
-  # Description Information
+  # Readme Generator
 
   ## Description
-  Description information
+  The purpose of this project was to generate a readme fiel
 
   ## Table of Contents
   * [Installation](#installation)
@@ -17,21 +14,21 @@
   * [Questions](#questions)
 
   ## Installation
-  Installation Instruction information
+  Install it anywhere!
 
   ## Usage
-  usage information text
+  Use it for creating readmes!
 
   ## Contributing
-  guidelines text
+  Contribute all the thigns
 
   ## Tests
-  test instructions
+  Test it
 
   ## License
-  Mozilla_Public_License
+  NA
 
   ## Questions?
   You can find all of my projects at https://github.com/nwithee
-  And you can contact me directly at nzwithee@gmail.com
+  And you can contact me directly at nzwithee@msn.com
 
