@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 const renderLicenseBadge = data => {
   return `
-  ![Github license](http://img.shields.io/badge/license-${data.licenses}-blue.svg)
+  ![Github license](http://img.shields.io/badge/License-${data.licenses}-blue.svg)
   `;
 }
 
@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   * [Instructions](#instructions)
   * [Usage](#usage)
   * [Guidelines](#guidelines)
-  * [Test](#test instructions)
+  * [Test](#test_instructions)
   * [Licenses](#licenses)
   * [Questions](#questions)
 
@@ -38,7 +38,7 @@ function generateMarkdown(data) {
   ## Usage Information
   ${data.usage}
 
-  ## Contribution Guidelines
+  ## Guidelines
   ${data.guidelines}
 
   ## Test Instructions
