@@ -1,11 +1,11 @@
 
   
-      ![Github license](http://img.shields.io/badge/License-Academic_Free_License-blue.svg)
+      ![Github license](http://img.shields.io/badge/License-Apache_License-blue.svg)
     
-  # test
+  # Test
 
   ## Description
-  test
+  Test
 
   ## Table of Contents
   * [Installation](#installation)
@@ -16,21 +16,21 @@
   * [Questions](#questions)
 
   ## Installation
-  test
+  Test
 
   ## Usage
-  test
+  Test
 
   ## Contributing
-  test
+  Test
 
   ## Tests
-  test
+  Test
 
   ## License
-  Academic_Free_License
+  Apache_License
 
   ## Questions?
-  You can find all of my projects at https://github.com/test
-  And you can contact me directly at test
+  You can find all of my projects at https://github.com/nwithee
+  And you can contact me directly at nzwithee@gmail.com
 
