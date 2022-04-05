@@ -94,7 +94,7 @@ const userQuestions = () => {
             type: 'list',
             name: 'licenses',
             message: "What license, if any, did you use for your application?",
-            choices: ['Academic Free License', 'Apache License', 'Creative Common License', 'Eclipse Public License', 'Mozilla Public License']
+            choices: ['Academic_Free_License', 'Apache_License', 'Creative_Common_License', 'Eclipse_Public_License', 'Mozilla_Public_License']
         },
         {
             type: 'input',
