@@ -1,9 +1,11 @@
 
   
-  # Readme Generator
+      ![Github license](http://img.shields.io/badge/License-Creative_Common_License-blue.svg)
+    
+  # Test Project
 
   ## Description
-  The purpose of this project was to generate a readme fiel
+  Test Project
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,19 +16,19 @@
   * [Questions](#questions)
 
   ## Installation
-  Install it anywhere!
+  Test Project
 
   ## Usage
-  Use it for creating readmes!
+  Test Project
 
   ## Contributing
-  Contribute all the thigns
+  Test Project
 
   ## Tests
-  Test it
+  Test
 
   ## License
-  NA
+  Creative_Common_License
 
   ## Questions?
   You can find all of my projects at https://github.com/nwithee
