@@ -1,8 +1,9 @@
-# Test
 
   
-  ![Github license](http://img.shields.io/badge/license-Creative_Common_License-blue.svg)
+  ![Github license](http://img.shields.io/badge/license-Eclipse_Public_License-blue.svg)
   
+
+  # Test
 
   ## Description
   Test
@@ -11,7 +12,7 @@
   * [Instructions](#instructions)
   * [Usage](#usage)
   * [Guidelines](#guidelines)
-  * [Test](#test_instructions)
+  * [Test](#test instructions)
   * [Licenses](#licenses)
   * [Questions](#questions)
 
@@ -28,7 +29,7 @@
   Test
 
   ## This project is licensed under the following licenses
-  Creative_Common_License
+  Eclipse_Public_License
 
   ## Questions?
   You can find all of my projects at https://github.com/nwithee
