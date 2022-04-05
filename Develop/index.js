@@ -91,7 +91,7 @@ const userQuestions = () => {
             }
         },
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'licenses',
             message: "What license, if any, did you use for your application?",
             choices: ['Academic Free License', 'Apache License', 'Creative Common License', 'Eclipse Public License', 'Mozilla Public License']
