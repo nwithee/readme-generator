@@ -1,10 +1,10 @@
 
-  ![Github license](http://img.shields.io/badge/License-Eclipse_Public_License-blue.svg)
+  ![Github license](http://img.shields.io/badge/License-Creative_Common_License-blue.svg)
 
-  # test
+  # Readme Generator
 
   ## Description
-  test
+  The purpose of this project was to develop an app to generate readmes
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,21 +15,21 @@
   * [Questions](#questions)
 
   ## Installation
-  test
+  Install it somewhere that is meaningful to you
 
   ## Usage
-  test
+  Use it to make readme files for your projects
 
   ## Contributing
-  test
+  contribute great things!
 
   ## Tests
-  tes
+  Test it whenever you'd like!
 
   ## License
-  Eclipse_Public_License
+  Creative_Common_License
 
   ## Questions?
-  You can find all of my projects at https://github.com/test
-  And you can contact me directly at etst
+  You can find all of my projects at https://github.com/nwithee
+  And you can contact me directly at nzwithee@gmail.com
 
