@@ -23,7 +23,7 @@
   test
 
   ## Contributing
-  stse
+  test
 
   ## Tests
   test
