@@ -1,20 +1,16 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 const renderLicenseBadge = data => {
-  return `
-  ![Github license](http://img.shields.io/badge/License-${data.licenses}-blue.svg)
-  `
+  var license = `${data.licenses}`;
   
-  //var license = `${data.licenses}`;
-  
-  //if (license === 'NA'){
-   // return ``;
- // }
-  //else {
-    //return `
-      //![Github license](http://img.shields.io/badge/License-${data.licenses}-blue.svg)
-    //`;
- // }
+  if (license === 'NA'){
+   return ``
+  }
+  else {
+    return `
+      ![Github license](http://img.shields.io/badge/License-${license}-blue.svg)
+    `
+  }
 }
 
 // Create a function to generate markdown for README
