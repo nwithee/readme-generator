@@ -8,7 +8,7 @@ const renderLicenseBadge = data => {
   }
   else {
     return `
-      ![Github license](http://img.shields.io/badge/License-${license}-blue.svg)
+    ![Github license](http://img.shields.io/badge/License-${license}-blue.svg)
     `
   }
 }
