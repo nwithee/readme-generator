@@ -1,7 +1,5 @@
 
-  
-  ![Github license](http://img.shields.io/badge/License-Academic_Free_License-blue.svg)
-    
+  ![Github license](http://img.shields.io/badge/License-Eclipse_Public_License-blue.svg)
 
   # test
 
@@ -26,12 +24,12 @@
   test
 
   ## Tests
-  test
+  tes
 
   ## License
-  Academic_Free_License
+  Eclipse_Public_License
 
   ## Questions?
   You can find all of my projects at https://github.com/test
-  And you can contact me directly at test
+  And you can contact me directly at etst
 
