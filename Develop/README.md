@@ -20,10 +20,10 @@
   test
 
   ## Usage
-  tes
+  test
 
   ## Contributing
-  t
+  stse
 
   ## Tests
   test

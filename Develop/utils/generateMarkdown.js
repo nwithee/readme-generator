@@ -3,14 +3,14 @@
 const renderLicenseBadge = data => {
   var license = `${data.licenses}`;
   
-  if (license === 'NA'){
-    return ``;
-  }
-  else {
+  //if (license === 'NA'){
+   // return ``;
+ // }
+  //else {
     return `
     ![Github license](http://img.shields.io/badge/License-${license}-blue.svg)
     `;
-  }
+ // }
 }
 
 // Create a function to generate markdown for README
